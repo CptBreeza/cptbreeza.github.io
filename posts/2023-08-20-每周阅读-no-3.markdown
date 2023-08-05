@@ -1,0 +1,19 @@
+---
+title: 每周阅读 第三周
+---
+
+**[Now is the time for grimoires](https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires)**
+
+**[认识偏差知识手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)**
+
+**[Introduction to TypeScript](https://programmingsoup.com/typescript-introduction)**
+
+**[How I explore domain problems faster and cheaply with OCaml: modeling a web router](https://practicalocaml.com/how-i-explore-domain-problems-faster-and-cheaply-in-ocaml/)**
+
+**[Secret Cyborgs: The Present Disruption in Three Papers](https://www.oneusefulthing.org/p/secret-cyborgs-the-present-disruption)**
+
+**[Becoming strange in the Long Singularity](https://www.oneusefulthing.org/p/becoming-strange-in-the-long-singularity)**
+
+**[Magic for English Majors](https://www.oneusefulthing.org/p/magic-for-english-majors)**
+
+**[A prosthesis for imagination: Using AI to boost your creativity](https://www.oneusefulthing.org/p/a-prosthesis-for-imagination-using)**

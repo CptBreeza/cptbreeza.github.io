@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CptBreeza - CSS 学习</title>
+    <link rel="stylesheet" href="../css/default.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="../">CptBreeza</a>
+      </nav>
+    </header>
+
+    <main role="main">
+      <h1>CSS 学习</h1>
+      <article>
+  <section class="header">2023.09.02</section>
+  <section><h1 id="选择器">1. 选择器</h1>
+<h2 id="attribute-选择器">1.1 attribute 选择器</h2>
+<ol type="1">
+<li>具有 <code>a[href]</code></li>
+<li>相等 <code>a[href="/posts"]</code></li>
+<li>包含 <code>a[href*="posts"]</code></li>
+<li>开头 <code>a[href^="https"]</code></li>
+<li>结尾 <code>a[href$=".org"]</code></li>
+<li>多个 <code>a[href^="https"][href$=".org"]</code></li>
+</ol>
+<h2 id="类选择器">1.2 类选择器</h2>
+<ol type="1">
+<li>直接使用 <code>.class-name</code></li>
+<li>限定标签 <code>a.class-name</code></li>
+<li>多个 <code>a.class-a.class-b</code></li>
+</ol>
+<h2 id="id-选择器">1.3 id 选择器</h2>
+<ol type="1">
+<li>直接使用 <code>#id-a</code></li>
+</ol>
+<h2 id="选择器-1">1.4 &amp; 选择器</h2>
+<ol type="1">
+<li>没有 &amp; 时，嵌套解释为父子 <code>nav { a { color: red; }}</code></li>
+<li>有 &amp; 时，&amp; 被解释为 parent（这句和上面等效） <code>nav { &amp; a { color: red; }}</code></li>
+<li>没有 &amp; 时，嵌套解释为父子 <code>a { :hover { color: white; }}</code> 会被解释为
+<code>a *:hover { color: white; }</code></li>
+<li>有 &amp; 时，&amp; 被解释为 parent <code>a { &amp;:hover { color: white }}</code></li>
+</ol>
+<h2 id="关系选择器">1.5 关系选择器</h2>
+<ol type="1">
+<li>接邻兄弟选择器 <code>p + a { color: red; }</code></li>
+<li>子选择器 <code>p &gt; a { color: red; }</code></li>
+<li>后代选择器 <code>p a { color: red; }</code></li>
+<li>兄弟选择器（只选它后面的） <code>p ~ a { color: red; }</code></li>
+</ol>
+<h2 id="选择器列表">1.6 选择器列表</h2>
+<ol type="1">
+<li>多个选择器共用一套样式 <code>a,p,h1 { color: red; }</code></li>
+</ol>
+<h2 id="状态类伪类">1.7 状态类伪类</h2>
+<ol type="1">
+<li>常用于按钮按下时 <code>:active</code></li>
+<li>选项被选择时 <code>:checked</code></li>
+<li>有效/无效 <code>:enabled</code>/<code>:disabled</code></li>
+<li>获得焦点时 <code>:focus</code></li>
+<li>鼠标悬浮时 <code>:hover</code></li>
+<li>有效/无效时（input、form 等）<code>:valid</code>/<code>:invalid</code></li>
+<li>必填的 <code>:required</code></li>
+<li>目标（URL 中的 fragmnent 指向的元素） <code>:target</code></li>
+<li>链接被访问过 <code>:visited</code></li>
+</ol>
+<h2 id="关系型伪类">1.8 关系型伪类</h2>
+<ol type="1">
+<li><code>:first-child</code>/<code>:last-child</code></li>
+<li><code>:first-of-type</code>/<code>:last-of-type</code></li>
+<li><code>:nth-child(n)</code></li>
+<li><code>:nth-of-type(n)</code></li>
+<li><code>:nth-last-child(n)</code></li>
+<li><code>:nth-last-of-type(n)</code></li>
+<li><code>:only-child</code></li>
+<li><code>:only-of-type</code></li>
+</ol>
+<h2 id="功能型伪类">1.9 功能型伪类</h2>
+<ol type="1">
+<li><code>:has(+ p)</code></li>
+</ol>
+<h2 id="伪类元素">1.10 伪类元素</h2>
+<ol type="1">
+<li><code>::before</code>/<code>::after</code></li>
+<li><code>::first-letter</code>/<code>::first-line</code></li>
+<li><code>::placeholder</code></li>
+<li><code>::selection</code></li>
+</ol></section>
+</article>
+
+    </main>
+    <footer></footer>
+  </body>
+</html>

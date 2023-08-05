@@ -1,0 +1,51 @@
+---
+title: 每周阅读 第一周
+---
+
+**[MEDIA QUERIES, RESPONSIVE DESIGN? HELP ME!](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)**
+
+1. CSS 像素和设备像素有区别
+2. 不规则屏幕有安全区域
+3. 小设备比如 Apple Watch 会假装自己有 320px viewport
+4. 移动浏览器可能会擅自增大字体
+
+**[How to Learn Better in the Digital Age](https://giansegato.com/essays/edutainment-is-not-learning)**
+
+**文章内容**：
+
+1. 学习没有什么诀窍，努力本身——或者说练习本身——就是诀窍
+2. 「髓鞘形成」和运动神经的积极使用有关
+   1. 以前看到过一种说法，我自己也有类似的感受，翻看纸书会比看电子书更容易记住内容。我看完一本纸书后的一段时间内都还能记得大概在多厚的地方发生了什么事
+   2. 看纸书遇到不会的单词尽量翻词典查，在翻词典的时候就把单词拼写了很多遍，直接用手机识别来查虽然快，但忘得也快
+3. 即使是缺乏深度的 blog，podcast
+   和视频，也可以不把它们完全当成娱乐，而是当成「预学习」，因为它们可能会激发兴趣、提供学习动机
+4. 认真对待在自己在网上收集到的内容，定期清理收藏，要么深入学习，要么当成娱乐看一下，既没有学习价值又没有娱乐价值的就直接删掉，不要舍不得
+
+**发散**：
+
+1. 互联网的信息爆炸同时大量增加了学习资料和娱乐资源，但两者增长的比例是不同的，娱乐资源膨胀得多得多
+2. 在学习的时候得分清为了工作上进的学习和作为自己兴趣的学习。有的时候这两部分内容有重合，那就要慎重不要让自己的兴趣影响到工作
+3. 互联网技术领域更是要慎重选择学习的对象，技术极速更迭，尤其是为了工作上进的学习，要耐心仔细选择学习的东西
+4. 尽量不要迷恋工具，当一个工具本身的学习成本很高，能做到的事情却有限时，想一想自己到底是为了什么才要去学习工具的，如果只是为了标榜自己的身份、证明自己的能力、装逼，那就再仔细考虑考虑
+
+**[Tech mindset for Early-Stage CTOs](https://giansegato.com/essays/a-technical-framework-for-early-stage-startups)**
+
+1. 初创公司做技术时最优先考虑的一定是开发速度，而不是 scalability，原因是：做
+   scalability 比证明你的点子可行成本更高
+2. MVP 是必须的，而且一定要做得小，原因是：
+   1. 必须用最快速度把点子实现出来
+   2. 一定证明点子不可行，小的产品转型更快
+
+**[Why Write](https://giansegato.com/essays/why-writing)**
+
+**[A Philosophical Intuition Behind the Blockchain](https://giansegato.com/essays/a-philosophical-intuition-behind-the-blockchain)**
+
+**[Just normal web things.](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)**
+
+**[The Great Divide](https://css-tricks.com/the-great-divide/)**
+
+**[The practical value of semantic HTML](https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/)**
+
+**[Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)**
+
+**[What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)**
