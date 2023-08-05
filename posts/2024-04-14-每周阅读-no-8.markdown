@@ -1,0 +1,9 @@
+---
+title: 每周阅读 第八周
+---
+
+**[using chatgpt and other ai writing tools makes you unhireable. here’s why](https://docseuss.medium.com/using-chatgpt-and-other-ai-writing-tools-makes-you-unhireable-heres-why-d66d33e0ddb9)**
+
+**[Front-end development’s identity crisis](https://www.ellyloel.com/blog/front-end-development-s-identity-crisis/)**
+
+**[The problem of AI ethics](https://www.ben-evans.com/benedictevans/2024/3/23/the-problem-of-ai-ethics-and-laws-about-ai)**

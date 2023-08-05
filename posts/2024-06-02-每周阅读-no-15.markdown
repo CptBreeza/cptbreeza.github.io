@@ -1,0 +1,29 @@
+---
+title: 每周阅读 第十五周
+---
+
+**[Maintain it With Zig](https://kristoff.it/blog/maintain-it-with-zig/)**
+
+**[Unpacking Observability: The Observability Stack](https://storiesfromtheherd.com/unpacking-observability-the-observability-stack-93d4733e2a72)**
+
+**[Infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview)**
+
+**[Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)**
+
+**[Metastability and Distributed Systems](https://brooker.co.za/blog/2021/05/24/metastable.html)**
+
+**[What is Scalability Anyway?](https://brooker.co.za/blog/2024/01/18/scalability.html)**
+
+**[It’s About Time!](https://brooker.co.za/blog/2023/11/27/about-time.html)**
+
+**[Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)**
+
+**[Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems)**
+
+**[Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql)**
+
+**[Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)**
+
+**[The Two Reacts](https://overreacted.io/the-two-reacts/)**
+
+**[React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime)**

@@ -1,0 +1,29 @@
+---
+title: 每周阅读 第十一周
+---
+
+**[Reading the news is the new smoking](https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking)**
+
+**[The TSConfig Cheat Sheet](https://www.totaltypescript.com/tsconfig-cheat-sheet)**
+
+**https://goblin.band/notes/9sgki9pdru7i8p9y**
+
+**[Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)**
+
+**[The power of devirtualization](https://marcofoco.com/blog/2016/10/03/the-power-of-devirtualization/)**
+
+**[Figma’s journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)**
+
+**[Why Passkey Implementation is 100x Harder Than You Think](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)**
+
+**[Agile has failed. Officially.](https://medium.com/developer-rants/agile-has-failed-officially-8136b0522c49)**
+
+**[Hard and Soft Statistics](https://justinjaffray.com/hard-and-soft-statistics/)**
+
+他写了很多关于 db 的文章，后面可以细读一下
+
+**[Bytecode VMs in surprising places]**(https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+
+**[Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)**
+
+**[The influence of Self](https://dubroy.com/blog/self/)**

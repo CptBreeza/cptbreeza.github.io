@@ -1,0 +1,16 @@
+---
+title: 每周阅读 第七周
+---
+
+**有意思的几句话**
+
+- "Talk is cheap. Show me the code." by Linus Torvalds
+- "Shut up and calculate!" by Richard Feynman (misattributed)
+- "Young man, in mathematics you don't understand things. You just get used to
+  them." by Von Neumann
+
+**[Our tools shape our selves](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world)**
+
+**[10 Cool SQL Optimisations That do not Depend on the Cost Model](https://blog.jooq.org/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/)**
+
+**[Practical Guide to SQL Transaction Isolation](https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html)**

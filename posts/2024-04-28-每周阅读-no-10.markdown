@@ -1,0 +1,31 @@
+---
+title: 每周阅读 第十周
+---
+
+**[Canonical Examples](https://buttondown.email/hillelwayne/archive/canonical-examples/)**
+
+**[Use the Wrong Tool for the Job](https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/)**
+
+**[CLEVER VS INSIGHTFUL CODE](https://www.hillelwayne.com/post/cleverness/)**
+
+**[SOFTWARE CORRECTNESS IS A LOT LIKE FLOSSING](https://www.hillelwayne.com/post/flossing/)**
+
+**[SOFTWARE MIMICRY](https://www.hillelwayne.com/post/software-mimicry/)**
+
+**[Looking for AI use-cases](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases)**
+
+**[A Guide to Undefined Behavior in C and C++, Part 1](https://blog.regehr.org/archives/213)**
+
+**[Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)**
+
+**[Why Decentralised ID Won't Work](https://fy.blackhats.net.au/blog/2022-11-17-why-decentralised-id-won-t-work/)**
+
+**[Developer Perspective on Docker](https://fy.blackhats.net.au/blog/2020-07-13-developer-perspective-on-docker/)**
+
+**[The idea of CI and Engineering](https://fy.blackhats.net.au/blog/2019-01-02-the-idea-of-ci-and-engineering/)**
+
+**[Concurrency 1: Types of Concurrency](https://fy.blackhats.net.au/blog/2019-12-29-concurrency-1-types-of-concurrency/)**
+
+**[Concurrency 2: Concurrently Readable Structures](https://fy.blackhats.net.au/blog/2019-12-29-concurrency-2-concurrently-readable-structures/)**
+
+**[So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)**

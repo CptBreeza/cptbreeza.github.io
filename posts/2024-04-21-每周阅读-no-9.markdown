@@ -1,0 +1,65 @@
+---
+title: 每周阅读 第九周
+---
+
+**[If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)**
+
+**[What makes concurrency so hard?](https://buttondown.email/hillelwayne/archive/what-makes-concurrency-so-hard/)**
+
+**[Physical vs Logical Time](https://buttondown.email/hillelwayne/archive/physical-vs-logical-time/)**
+
+**[Why is Concurrent Programming hard?](https://stefan-marr.de/2014/07/why-is-concurrent-programming-hard/)**
+
+**[Reject Simplicity, Embrace Complexity](https://buttondown.email/hillelwayne/archive/reject-simplicity-embrace-complexity/)**
+
+**[Defects are not the fault of programmers](https://buttondown.email/hillelwayne/archive/54c21d10-0185-428b-9e64-cdc5683e955f)**
+
+**[A Binder Full of Questions](https://buttondown.email/hillelwayne/archive/a-binder-full-of-questions/)**
+
+**[Mystery Knowledge](https://buttondown.email/hillelwayne/archive/c185435c-6881-4ebc-a7e1-ba748553a15c)**
+
+**[Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law)**
+
+**[When to prefer inheritance to composition](https://buttondown.email/hillelwayne/archive/when-to-prefer-inheritance-to-composition/)**
+
+**[Agile is people, the rest is commentary.](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)**
+
+**[Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)**
+
+**[In Defense of Slow Feedback Loops](https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/)**
+
+**[More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)**
+
+**[Chesterton's fence](https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence)**
+
+**[Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)**
+
+**[I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)**
+
+**[Just-so story](https://en.wikipedia.org/wiki/Just-so_story)**
+
+**[Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)**
+
+**[How to argue for something without any scientific evidence](https://buttondown.email/hillelwayne/archive/how-to-advocate-something-without-any-scientific/)**
+
+**[Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)**
+
+**[Rule of least power](https://en.wikipedia.org/wiki/Rule_of_least_power)**
+
+**[Some notes on for loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)**
+
+**[The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)**
+
+**[Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)**
+
+**[DECISION TABLE PATTERNS](https://www.hillelwayne.com/post/decision-table-patterns/)**
+
+**[THE WORLD AND THE MACHINE](https://www.hillelwayne.com/post/world-vs-machine/)**
+
+**[A BETTER EXPLANATION OF THE LISKOV SUBSTITUTION PRINCIPLE](https://www.hillelwayne.com/post/lsp/)**
+
+**[MY PROBLEM WITH THE FOUR-DOCUMENT MODEL](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)**
+
+**[Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)**
+
+**[SOURCES OF COMPLEXITY: CONSTRAINTS](https://www.hillelwayne.com/post/complexity-constraints/)**

@@ -1,0 +1,7 @@
+---
+title: 每周阅读 第十六周
+---
+
+**[Making sense of Elixir (improper) lists](https://dorgan.netlify.app/posts/2021/03/making-sense-of-elixir-(improper)-lists/)**
+
+**[I've been thinking about tradeoffs all wrong](https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong/)**

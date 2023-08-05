@@ -1,0 +1,21 @@
+---
+title: 每周阅读 第十二周
+---
+
+**[AI and problems of scale](https://www.ben-evans.com/benedictevans/2024/4/29/problems-of-scale-z7mrb)**
+
+**[Ways to think about AGI](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi)**
+
+**[Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)**
+
+**[Why you should take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)**
+
+**["Integration tests" are just vibes](https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/)**
+
+**[SOFTWARE FRICTION](https://www.hillelwayne.com/post/software-friction/)**
+
+**[FRIDAY DEPLOY FREEZES ARE EXACTLY LIKE MURDERING PUPPIES](https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/)**
+
+**[What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)**
+
+**[You Are What You Read, Even If You Don’t Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)**
